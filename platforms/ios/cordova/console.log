@@ -1,0 +1,33 @@
+2014-08-20 02:41:00.401 doggy[15775:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 02:41:00.427 doggy[15775:70b] Unlimited access to network resources
+2014-08-20 02:41:00.852 doggy[15775:70b] [CDVTimer][keyboard] 0.088990ms
+2014-08-20 02:41:00.852 doggy[15775:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-20 02:41:00.853 doggy[15775:70b] [CDVTimer][statusbar] 0.477016ms
+2014-08-20 02:41:00.853 doggy[15775:70b] [CDVTimer][TotalPluginStartup] 1.725018ms
+2014-08-20 02:41:01.010 doggy[15775:70b] Resetting plugins due to page load.
+2014-08-20 02:41:01.252 doggy[15775:70b] Finished load of: file:///Users/franck/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B3863AD9-3DCC-43DF-8FDE-74C1B609DECC/doggy.app/www/index.html#/app/playlists
+2014-08-20 04:26:58.007 doggy[16405:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 04:26:58.014 doggy[16405:70b] Unlimited access to network resources
+2014-08-20 04:26:58.030 doggy[16405:70b] [CDVTimer][keyboard] 0.054002ms
+2014-08-20 04:26:58.030 doggy[16405:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-20 04:26:58.031 doggy[16405:70b] [CDVTimer][statusbar] 0.429034ms
+2014-08-20 04:26:58.031 doggy[16405:70b] [CDVTimer][TotalPluginStartup] 1.303017ms
+2014-08-20 04:26:58.158 doggy[16405:70b] Resetting plugins due to page load.
+2014-08-20 04:26:58.258 doggy[16405:70b] Finished load of: file:///Users/franck/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B3863AD9-3DCC-43DF-8FDE-74C1B609DECC/doggy.app/www/index.html#/app/playlists
+Terminating in response to SpringBoard's termination.
+2014-08-20 04:27:19.345 doggy[16595:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 04:27:19.355 doggy[16595:70b] Unlimited access to network resources
+2014-08-20 04:27:19.376 doggy[16595:70b] [CDVTimer][keyboard] 0.081956ms
+2014-08-20 04:27:19.377 doggy[16595:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-20 04:27:19.378 doggy[16595:70b] [CDVTimer][statusbar] 0.998020ms
+2014-08-20 04:27:19.379 doggy[16595:70b] [CDVTimer][TotalPluginStartup] 2.469003ms
+2014-08-20 04:27:19.497 doggy[16595:70b] Resetting plugins due to page load.
+2014-08-20 04:27:19.777 doggy[16595:70b] Finished load of: file:///Users/franck/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B3863AD9-3DCC-43DF-8FDE-74C1B609DECC/doggy.app/www/index.html#/app/playlists
+2014-08-20 04:28:24.201 doggy[16792:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 04:28:24.210 doggy[16792:70b] Unlimited access to network resources
+2014-08-20 04:28:24.230 doggy[16792:70b] [CDVTimer][keyboard] 0.078022ms
+2014-08-20 04:28:24.231 doggy[16792:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-20 04:28:24.231 doggy[16792:70b] [CDVTimer][statusbar] 0.400007ms
+2014-08-20 04:28:24.231 doggy[16792:70b] [CDVTimer][TotalPluginStartup] 1.323998ms
+2014-08-20 04:28:24.342 doggy[16792:70b] Resetting plugins due to page load.
+2014-08-20 04:28:24.646 doggy[16792:70b] Finished load of: file:///Users/franck/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B3863AD9-3DCC-43DF-8FDE-74C1B609DECC/doggy.app/www/index.html#/app/playlists

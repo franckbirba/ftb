@@ -1,0 +1,32 @@
+<div class="modal">
+  <ion-header-bar>
+    <h1 class="title">Doggy</h1>
+    <div class="buttons">
+      <button class="button button-clear" ng-click="closeDoggy()">Close</button>
+    </div>
+  </ion-header-bar>
+  <ion-content>
+    <form ng-submit="doDoggy()">
+      <div class="list">
+        <label class="item item-input">
+          <span class="input-label">Username</span>
+          <input type="text" ng-model="doggy.username">
+        </label>
+        <label class="item item-input">
+          <input type="file" ng-model="doggy.picture">
+        </label>
+        <div class="item item-input-inset">
+        <label class="item-input-wrapper">
+          <input type="file" placeholder="Email">
+        </label>
+        <button class="button button-small">
+          Submit
+        </button>
+      </div>
+        <label class="item">
+          <button class="button button-block button-positive" type="submit">Dog it!</button>
+        </label>
+      </div>
+    </form>
+  </ion-content>
+</div>
