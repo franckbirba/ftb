@@ -56,7 +56,7 @@ canvas {
         <tbody>
             <tr ng-repeat="item in uploader.queue">
                 <td>
-                    <img width="50px;" src="{{item.file.path}}"/>
+                    {{item.file}}<img width="50px;" src="{{item.url}}"/>
                     <!-- Image preview -->
                     <!--auto height-->
                     <!--<div ng-thumb="{ file: item.file, width: 100 }"></div>-->

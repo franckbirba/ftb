@@ -35,14 +35,10 @@ angular.module('starter.controllers', [])
 
 .controller('DoggyCtrl', function($scope, FileUploader) {
      $scope.uploader = new FileUploader();
-     $scope.$watch($scope.uploader.queue, function() {
-            alert('hey, myVar has changed!');
-        });
-     $scope.uploader.queue
   
 })
 .controller('DoggyListCtrl', function($scope, $http) {
-    $http({method: 'GET', url: 'http://localhost:4242/img'}).
+    $http({method: 'GET', url: 'http://54.194.70.208:4242/img'}).
         success(function(data, status, headers, config) {
           // this callback will be called asynchronously
           // when the response is available
