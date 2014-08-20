@@ -33,7 +33,7 @@ canvas {
 
     <div ng-show="uploader.isHTML5">
         <!-- Example: nv-file-drop="" uploader="{Object}" options="{Object}" filters="{String}" -->
-        <div nv-file-drop="" uploader="uploader" options="{ url: 'http://localhost:4242/img' }">
+        <div nv-file-drop="" uploader="uploader" options="{ url: 'http://54.194.70.208:4242/img' }">
             <div nv-file-over="" uploader="uploader" over-class="another-file-over-class" style="width=200px;height:100px;" class="well my-drop-zone">
                 Another drop zone with its own settings
             </div>
@@ -41,7 +41,7 @@ canvas {
     </div>
 
     <!-- Example: nv-file-select="" uploader="{Object}" options="{Object}" filters="{String}" -->
-    <input type="file" nv-file-select="" uploader="uploader" multiple options="{ url: 'localhost:4242/img' }" /><br/>
+    <input type="file" nv-file-select="" uploader="uploader" multiple options="{ url: 'http://54.194.70.208:4242/img' }" /><br/>
     <p>Queue length: {{ uploader.queue.length }}</p>
     <table class="table">
         <thead>
