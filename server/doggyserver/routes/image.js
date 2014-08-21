@@ -54,7 +54,7 @@ var multiparty = require('multiparty')
           GridStore.list(dbClient.db,{id:true}, function(err,items){
               console.log(items);
               items.forEach(function(filename){
-                  doggies.push({url: "http://localhost:4242/img?id="+filename})
+                  doggies.push({url: "http://54.194.70.208/:4242/img?id="+filename})
                   console.log(filename);
               })
              gzipEncode(req, res, doggies, "text/javascript", 200);
